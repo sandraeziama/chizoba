@@ -94,13 +94,13 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexus_r</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://ec2-3-98-144-119.ca-central-1.compute.amazonaws.com:8081/repository/work-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus_s</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://ec2-3-98-144-119.ca-central-1.compute.amazonaws.com:8081/repository/work-snapshots/</url>
 	    </snapshotRepository>
