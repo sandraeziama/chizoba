@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-15-222-5-81.ca-central-1.compute.amazonaws.com:8081/repository/work-releases/</url>
+	      <url>http://ec2-3-98-144-119.ca-central-1.compute.amazonaws.com:8081/repository/work-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-15-222-5-81.ca-central-1.compute.amazonaws.com:8081/repository/work-snapshots/</url>
+	      <url>http://ec2-3-98-144-119.ca-central-1.compute.amazonaws.com:8081/repository/work-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
