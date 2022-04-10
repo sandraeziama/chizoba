@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-3-99-131-143.ca-central-1.compute.amazonaws.com:8081/repository/Ugonna-releases/</url>
+	      <url>http://ec2-35-183-113-230.ca-central-1.compute.amazonaws.com:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-3-99-131-143.ca-central-1.compute.amazonaws.com:8081/repository/Ugonna-snapshots/</url>
+	      <url>http://ec2-35-183-113-230.ca-central-1.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
