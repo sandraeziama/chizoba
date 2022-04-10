@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus_r</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-3-96-154-154.ca-central-1.compute.amazonaws.com:8081/repository/boa_release-releases/</url>
+	      <url>http://ec2-3-99-131-143.ca-central-1.compute.amazonaws.com:8081/repository/Ugonna-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus_s</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-3-96-154-154.ca-central-1.compute.amazonaws.com:8081/repository/boa_snapshots/</url>
+	      <url>http://ec2-3-99-131-143.ca-central-1.compute.amazonaws.com:8081/repository/Ugonna-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
