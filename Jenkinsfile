@@ -1,10 +1,10 @@
 node{
-    def MHD = tool name: "maven3.8.4"
+    def MHDs = tool name: "maven3.8.4"
     stage('code'){
         git branch: 'development', url: 'https://github.com/LandmakTechnology/web-app'
     }
     stage('BUILD'){
-       sh "${MHD}/bin/mvn clean package"
+       sh "${MHDs}/bin/mvn clean package"
  
     }
     /*
